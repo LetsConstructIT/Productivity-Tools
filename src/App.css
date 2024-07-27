@@ -1,0 +1,20 @@
+.content-panel{
+  padding: .75rem .5rem .75rem 1rem;
+  border-top: .0625rem solid #d0d0d7;
+}
+
+modus-button{
+  padding-top: 0.25rem;
+}
+
+.title{
+  padding: .75rem .5rem .75rem 1rem;
+  line-height: 1.25;
+  font-weight: 600;
+  font-size: 1.375rem;
+}
+
+.filtered-objects{
+  height: 500px;
+  overflow: auto;
+}
